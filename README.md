@@ -1,8 +1,6 @@
 # fs-browser
 A package that allows you to paginate the file system. The items will always be fetched in order of folders first and after that the files.
 
-[![Build Status](https://travis-ci.com/Michaelpalacce/fs-browser.svg?branch=master)](https://travis-ci.com/Michaelpalacce/fs-browser)
-
 # Usage:
 
 ### Constructor options
