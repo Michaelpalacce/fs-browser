@@ -4,7 +4,8 @@
   "description": "A package that allows you to paginate the file system.",
   "main": "index.js",
   "scripts": {
-    "test": "node ./tests/file_system_test.js"
+    "test": "node ./tests/file_system_test.js",
+	"deploy": "npm run test && npm publish"
   },
   "repository": {
     "type": "git",
